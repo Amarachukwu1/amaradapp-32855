@@ -1,5 +1,5 @@
 app_identifier("com.crowdbotics.amaradapp-32855-id") # The bundle identifier of your app
-apple_id("") # Your Apple email address
+apple_id("itzlabelle22@gmail.com") # Your Apple email address
 
 itc_team_id("") # App Store Connect Team ID
 team_id("6YKR59QXKM") # Developer Portal Team ID
